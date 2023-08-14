@@ -16,6 +16,8 @@ A collection of tutorials and references to get started with [Qdrant](https://qd
 
 ### [Intro to Semantic Search](notebooks/intro-to-semantic-search.ipynb)
 
+### [Simple Neural Search API](qdrant-search-api/README.md)
+
 ### [Fast Integration with ChatGPT](https://qdrant.tech/articles/chatgpt-plugin/)
 
 </div>
